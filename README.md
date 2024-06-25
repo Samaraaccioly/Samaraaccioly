@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Samaraaccioly
-- 👀 I’m interested in improving my tech skills
-- 🌱 I’m currently learning computer science
+# Olá, me chamo Samara Accioly. 👋
+🎓 Estudante de Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE).
+🌱 Atualmente aprendendo a linguagem Java.
+📫 Como me encontrar: samaraaccioly.lins@gmail.com
 
 
 <!---
