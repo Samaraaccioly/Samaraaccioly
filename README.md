@@ -1,7 +1,7 @@
 # Olá, me chamo Samara Accioly. 👋
 - 🎓 Estudante de Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE).
 - 🌱 Atualmente aprendendo a linguagem Java.
-- 📫 Como me encontrar: samaraaccioly.lins@gmail.com
+- 📫 Como me contactar: samaraaccioly.lins@gmail.com
 
 
 <!---
